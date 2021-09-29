@@ -1,0 +1,22 @@
+name = Destination Saturn	;any name you want
+type = normal		;can be "normal" or "anarchy".  Omitted means normal
+hog = descent.hog	;hog file
+num_levels = 15		;number of normal levels
+level01.rdl		;level filename 1
+level02.rdl		;level filename 2
+level03.rdl		;level filename 3
+level04.rdl		;level filename 4
+level05.rdl		;level filename 5
+level06.rdl		;level filename 6
+level07.rdl		;level filename 7
+level08.rdl		;level filename 8
+level09.rdl		;level filename 9
+level10.rdl		;level filename 10
+level11.rdl		;level filename 11
+level12.rdl		;level filename 12
+level13.rdl		;level filename 13
+level14.rdl		;level filename 14
+saturn15.rdl		;level filename 15
+num_secrets = 1		;number of secret levels
+levels1.rdl,10		;get to first secret level from level 10
+

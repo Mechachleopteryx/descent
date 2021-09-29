@@ -1,0 +1,9 @@
+name = Modem Mayhem	;any name you want
+type = anarchy		;can be "normal" or "anarchy".  Omitted means normal
+num_levels = 5		;number of normal levels
+saturn5.rdl
+saturn1.rdl		;level filename 1
+saturn2.rdl		;level filename 1
+saturn3.rdl		;level filename 1
+saturn4.rdl		;level filename 1
+
